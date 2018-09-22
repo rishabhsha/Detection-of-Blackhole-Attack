@@ -4,3 +4,4 @@ To its working you need to have following prerequisites :</br>
 Linux OS</br>
 NS2/NS3 or network simulator software</br>
 NAM or network animator</br>
+Code is written in TCL language
